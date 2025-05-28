@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @ahmedmar710
 - 👀 I’m interested in anime, movies, and video games
-- 🌱 I’m currently learning C++
+- 🌱 I’m currently learning Java
 - 💞️ I’m looking to collaborate on a fun project
 - 📫 How to reach me: ahmedmar710@gmail.com
 - ⚡ Fun fact: I love lions
